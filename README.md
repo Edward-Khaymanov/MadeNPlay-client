@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center">
-	This is a client for launching games built on the MadeNPlay platform.
+	Client for launching games built on the MadeNPlay platform. <br />
+	MadeNPlay is a platform for creating multiplayer games in unity.
 </p>
 
 
