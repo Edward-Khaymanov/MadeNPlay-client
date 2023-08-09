@@ -32,8 +32,7 @@
 
 ## Demo
 
-Download [this](/releases/latest/download/MobaExample-0.0.1.rar) archive and unpack it to your games folder
-
+Download [this](https://github.com/Edward-Khaymanov/MadeNPlay-client/releases/latest/download/MobaExample-0.0.1.rar) archive and unpack it to your games folder
 
 ## Roadmap
 
