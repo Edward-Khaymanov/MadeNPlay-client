@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - UserLayer10
+  - UserLayer11
+  - UserLayer12
+  - UserLayer13
+  - UserLayer14
+  - UserLayer15
+  - UserLayer16
+  - UserLayer17
+  - UserLayer18
+  - UserLayer19
+  - UserLayer20
+  - UserLayer21
+  - UserLayer22
+  - UserLayer23
+  - UserLayer24
+  - UserLayer25
+  - UserLayer26
+  - UserLayer27
+  - UserLayer28
+  - UserLayer29
+  - UserLayer30
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

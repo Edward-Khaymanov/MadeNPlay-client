@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1db97d843858aa489a34934a44af81f, type: 3}
+  m_Name: ColorTheme
+  m_EditorClassIdentifier: 
+  _commonTheme:
+    _controlsColors:
+      <ControlsBackplate>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
+      <ControlsTextSelected>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <ControlsTextDeselected>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <Controls>k__BackingField:
+        m_NormalColor: {r: 0.96862745, g: 0.5882353, b: 0.1764706, a: 1}
+        m_HighlightedColor: {r: 0.8862745, g: 0.5686275, b: 0.101960786, a: 1}
+        m_PressedColor: {r: 0.7647059, g: 0.49019608, b: 0.09019608, a: 1}
+        m_SelectedColor: {r: 0.9764706, g: 0.61960787, b: 0.101960786, a: 1}
+        m_DisabledColor: {r: 0.9764706, g: 0.61960787, b: 0.101960786, a: 0.49803922}
+        m_ColorMultiplier: 1
+        m_FadeDuration: 0
+    _scrollbar:
+      m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+      m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+      m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+      m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+      m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+      m_ColorMultiplier: 1
+      m_FadeDuration: 0
+  _mainMenuTheme:
+    _controls:
+      <Icon>k__BackingField:
+        Normal: {r: 1, g: 1, b: 1, a: 1}
+        Highlighted: {r: 0.96862745, g: 0.5882353, b: 0.1764706, a: 1}
+      <Text>k__BackingField:
+        Normal: {r: 0, g: 0, b: 0, a: 1}
+        Highlighted: {r: 1, g: 1, b: 1, a: 1}
+  _createMenuTheme:
+    GameLineSelected: {r: 0.24313726, g: 0.5137255, b: 0.7921569, a: 1}
+    GameLineHovered: {r: 0.20392157, g: 0.44313726, b: 0.6901961, a: 1}
+    GameLineDeselected: {r: 0.24313726, g: 0.5137255, b: 0.7921569, a: 0}
+    GameTextSelected: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    GameTextHovered: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    GameTextDeselected: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    ServerSettingBackplate: {r: 0.13333334, g: 0.22745098, b: 0.6039216, a: 1}
+  _joinMenuTheme:
+    ColumnText: {r: 1, g: 1, b: 1, a: 1}
+    Column:
+      m_NormalColor: {r: 0.12941177, g: 0.56078434, b: 0.99607843, a: 1}
+      m_HighlightedColor: {r: 0.11372549, g: 0.50980395, b: 0.90588236, a: 1}
+      m_PressedColor: {r: 0.101960786, g: 0.4509804, b: 0.8, a: 1}
+      m_SelectedColor: {r: 0.12941177, g: 0.56078434, b: 0.99607843, a: 1}
+      m_DisabledColor: {r: 0.12941177, g: 0.56078434, b: 0.99607843, a: 1}
+      m_ColorMultiplier: 1
+      m_FadeDuration: 0
+    ServersLineSelected: {r: 0.24313726, g: 0.5137255, b: 0.7921569, a: 1}
+    ServersLineHovered: {r: 0.20392157, g: 0.44313726, b: 0.6901961, a: 1}
+    ServersLineDeselected: {r: 0.24313726, g: 0.5137255, b: 0.7921569, a: 0}
+    ServersTextSelected: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    ServersTextHovered: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+    ServersTextDeselected: {r: 0.83137256, g: 0.83137256, b: 0.83137256, a: 1}
+  _lobbyTheme:
+    _teamViewColors:
+      <Backplate>k__BackingField: {r: 0.12941176, g: 0.8333173, b: 0.99607843, a: 1}
+      <Text>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <JoinButtonIconDefault>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <JoinButtonIconJoined>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <JoinButtonBackplateDefault>k__BackingField: {r: 0.20392157, g: 0.6117647, b: 0.8980392,
+        a: 1}
+      <JoinButtonBackplateJoined>k__BackingField: {r: 0.9764706, g: 0.61960787, b: 0.101960786,
+        a: 1}
+      <DropdownBackplate>k__BackingField: {r: 0.9254902, g: 0.39607844, b: 0.13725491,
+        a: 1}
+      <DropdownIcon>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+    _userViewColors:
+      <CurrentUserBackplate>k__BackingField: {r: 0.12941177, g: 0.56078434, b: 0.99607843,
+        a: 1}
+      <Backplate>k__BackingField: {r: 0.08509842, g: 0.36876002, b: 0.655, a: 1}
+      <Text>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+      <ReadyIconReady>k__BackingField: {r: 0.20784314, g: 0.91764706, b: 0.23529412,
+        a: 1}
+      <ReadyIconNotReady>k__BackingField: {r: 0.9811321, g: 0.10551792, b: 0.10551792,
+        a: 1}
+      <ReadyIconBackplateReady>k__BackingField: {r: 1, g: 1, b: 1, a: 0}
+      <ReadyIconBackplateNotReady>k__BackingField: {r: 1, g: 1, b: 1, a: 0}
+      <HostIcon>k__BackingField: {r: 1, g: 1, b: 0, a: 1}
+      <HostIconBackplate>k__BackingField: {r: 1, g: 1, b: 1, a: 0}
