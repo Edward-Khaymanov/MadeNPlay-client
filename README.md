@@ -39,6 +39,7 @@ Download [this](https://github.com/Edward-Khaymanov/MadeNPlay-client/releases/la
 
 - The starting interface outside of unity
 - Customization of the color theme
+- Direct ip connection
 
 
 ## Related
